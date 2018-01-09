@@ -1,0 +1,41 @@
+c:\users\wissen\documents\visual studio 2015\Projects\FormKayit\bin\Debug\FormKayit.exe.config
+c:\users\wissen\documents\visual studio 2015\Projects\FormKayit\bin\Debug\FormKayit.exe
+c:\users\wissen\documents\visual studio 2015\Projects\FormKayit\bin\Debug\FormKayit.pdb
+c:\users\wissen\documents\visual studio 2015\Projects\FormKayit\obj\Debug\FormKayit.csprojResolveAssemblyReference.cache
+c:\users\wissen\documents\visual studio 2015\Projects\FormKayit\obj\Debug\FormKayit.Form1.resources
+c:\users\wissen\documents\visual studio 2015\Projects\FormKayit\obj\Debug\FormKayit.Properties.Resources.resources
+c:\users\wissen\documents\visual studio 2015\Projects\FormKayit\obj\Debug\FormKayit.csproj.GenerateResource.Cache
+c:\users\wissen\documents\visual studio 2015\Projects\FormKayit\obj\Debug\FormKayit.exe
+c:\users\wissen\documents\visual studio 2015\Projects\FormKayit\obj\Debug\FormKayit.pdb
+C:\Users\Wissen\Downloads\FormKayit\FormKayit\bin\Debug\FormKayit.exe.config
+C:\Users\Wissen\Downloads\FormKayit\FormKayit\obj\Debug\FormKayit.exe
+C:\Users\Wissen\Downloads\FormKayit\FormKayit\obj\Debug\FormKayit.pdb
+C:\Users\Wissen\Downloads\FormKayit\FormKayit\bin\Debug\FormKayit.exe
+C:\Users\Wissen\Downloads\FormKayit\FormKayit\bin\Debug\FormKayit.pdb
+C:\Users\Wissen\Downloads\FormKayit\FormKayit\obj\Debug\FormKayit.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Downloads\FormKayit\FormKayit\obj\Debug\FormKayit.Form1.resources
+C:\Users\Wissen\Downloads\FormKayit\FormKayit\obj\Debug\FormKayit.Form2.resources
+C:\Users\Wissen\Downloads\FormKayit\FormKayit\obj\Debug\FormKayit.Properties.Resources.resources
+C:\Users\Wissen\Downloads\FormKayit\FormKayit\obj\Debug\FormKayit.csproj.GenerateResource.Cache
+C:\Users\Mustafa\Desktop\FormKayit\bin\Debug\FormKayit.exe.config
+C:\Users\Mustafa\Desktop\FormKayit\bin\Debug\FormKayit.exe
+C:\Users\Mustafa\Desktop\FormKayit\bin\Debug\FormKayit.pdb
+C:\Users\Mustafa\Desktop\FormKayit\obj\Debug\FormKayit.csprojResolveAssemblyReference.cache
+C:\Users\Mustafa\Desktop\FormKayit\obj\Debug\FormKayit.Form1.resources
+C:\Users\Mustafa\Desktop\FormKayit\obj\Debug\FormKayit.Form2.resources
+C:\Users\Mustafa\Desktop\FormKayit\obj\Debug\FormKayit.Properties.Resources.resources
+C:\Users\Mustafa\Desktop\FormKayit\obj\Debug\FormKayit.csproj.GenerateResource.Cache
+C:\Users\Mustafa\Desktop\FormKayit\obj\Debug\FormKayit.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\Desktop\FormKayit\obj\Debug\FormKayit.exe
+C:\Users\Mustafa\Desktop\FormKayit\obj\Debug\FormKayit.pdb
+C:\Users\Mustafa\Desktop\wissen akademi\FormKayit\bin\Debug\FormKayit.exe.config
+C:\Users\Mustafa\Desktop\wissen akademi\FormKayit\bin\Debug\FormKayit.exe
+C:\Users\Mustafa\Desktop\wissen akademi\FormKayit\bin\Debug\FormKayit.pdb
+C:\Users\Mustafa\Desktop\wissen akademi\FormKayit\obj\Debug\FormKayit.csprojResolveAssemblyReference.cache
+C:\Users\Mustafa\Desktop\wissen akademi\FormKayit\obj\Debug\FormKayit.Form1.resources
+C:\Users\Mustafa\Desktop\wissen akademi\FormKayit\obj\Debug\FormKayit.Form2.resources
+C:\Users\Mustafa\Desktop\wissen akademi\FormKayit\obj\Debug\FormKayit.Properties.Resources.resources
+C:\Users\Mustafa\Desktop\wissen akademi\FormKayit\obj\Debug\FormKayit.csproj.GenerateResource.Cache
+C:\Users\Mustafa\Desktop\wissen akademi\FormKayit\obj\Debug\FormKayit.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\Desktop\wissen akademi\FormKayit\obj\Debug\FormKayit.exe
+C:\Users\Mustafa\Desktop\wissen akademi\FormKayit\obj\Debug\FormKayit.pdb
